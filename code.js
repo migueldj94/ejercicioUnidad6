@@ -39,3 +39,12 @@ console.log("Variable película antes del bloque:", pelicula)
 
 console.log("Variable película despues del bloque:", pelicula)
 console.log("Variable música despues del bloque:", musica)
+
+
+var nombre ="miguel";
+var apellido= "beltran";
+var edad = 29;
+var cancionFavorita =""
+var respuesta= true
+
+console.log(hola mi nombre es ${nombre} ${apellido} y tengo ${edad} no tengo cancion favorita${cancionFavorita} y la respuesta es ${respuesta})
