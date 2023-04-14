@@ -47,4 +47,4 @@ var edad = 29;
 var cancionFavorita =""
 var respuesta= true
 
-console.log(hola mi nombre es ${nombre} ${apellido} y tengo ${edad} no tengo cancion favorita${cancionFavorita} y la respuesta es ${respuesta})
+console.log(`hola mi nombre es ${nombre} ${apellido} y tengo ${edad} no tengo cancion favorita${cancionFavorita} y la respuesta es ${respuesta}`)
