@@ -131,3 +131,11 @@ console.log("numero par");
 }else {
 console.log("Numero impar");
 }
+
+
+contador = 1;
+numero = 7;
+while (contador <= 10) {
+console.log(`${numero} x ${contador} = ${numero * contador}`);
+contador++;
+}
